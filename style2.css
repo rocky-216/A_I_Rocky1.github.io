@@ -1,0 +1,75 @@
+
+
+.div30{
+    width: 915;
+    height: 490;
+  background-image: url("wdev.jpg");
+    margin: auto;
+
+
+    }
+    
+    
+    .div31{
+    
+        width: 908;
+        height: 200;
+       background-image: url("wdes.jpg");
+        background-color: limegreen;
+    }
+    
+    .text30{
+        font-size: x-large;
+    color:yellow;
+    
+    margin: 80px;
+    
+    }
+    
+    .text31{
+        color: blue;
+        
+        margin-left: 80px;
+    font-size: larger;
+    }
+    
+    .text32{
+    
+        color:blue;
+        
+        margin-left: 80px;
+        font-size: large; 
+    }
+    
+    .text33{
+     color: yellow;
+    
+    margin-left: 80px;
+    }
+    
+    .text34{
+        color: yellow;
+       
+       margin-left: 80px;
+       }
+    
+       .text35{
+        color: black;
+       background-color: chartreuse;
+       margin-left: 80px;
+       font-style: italic;
+       }
+    
+       .text36{
+        color: yellow;
+       
+       margin-left: 80px;
+       }
+    
+       .text37{
+        color: yellow;
+     
+       margin-left: 80px;
+       }
+
+

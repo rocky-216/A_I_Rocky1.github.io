@@ -1,0 +1,60 @@
+
+    .div3{
+        height: 500px;
+        background-image: url("wdev.jpg");
+        
+    }
+
+.text3{
+
+    color: yellowgreen;
+    font-size: x-large;
+    font-style: italic;
+}
+
+.text31{
+
+    color:red;
+    background-color: chartreuse;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+    .div1{
+
+        background-color: black;
+        height: 50px; 
+        
+     }
+     .text1{
+    
+        color: chartreuse;
+        font-size: xx-large; 
+    }
+    
+     .div2{
+         height: 100px;
+        
+         background-color:red;
+        
+     } 
+      .text2{
+          color: chartreuse;
+          font-size: xx-large;
+          margin-left: 10px;
+      }
+      
+      .text21{
+    color: chartreuse;
+    font-size: xx-large;
+    text-align: center;
+        background-color: green;
+      }
+      .text22{
+    
+        color: black;
+        font-size: x-large;
+        background-color: chartreuse;
+        margin-right: 10px ;
+    
+        
